@@ -1,0 +1,55 @@
+id,name,category,notes
+1,MainGate,gate,
+2,FashionBlock,academic,
+3,Hospital,facility,
+4,Pharmacy1,academic,
+5,Pharmacy2,academic,
+6,HappinessCounsellingDept,facility,
+7,DesignBlock1,academic,
+8,DesignBlock2,academic,
+9,GirlsHostel1,hostel,
+10,GirlsHostel3B,hostel,part of GH3 (two blocks)
+11,GirlsHostel3A,hostel,part of GH3 (two blocks)
+12,GirlsHostel2,hostel,
+13,DSW,admin,Dean of Student Welfare - near Hospital(3)
+14,MittalSchoolOfBusiness,academic,
+15,UniMall,facility,
+16,HotelManagement,academic,
+17,UniPolyclinic,facility,
+18,PhysicalBlock,facility,
+19,Auditorium1,facility,unverified - kept from earlier estimate
+20,LawDepartment,academic,
+21,GirlsHostel6,hostel,
+22,GirlsHostel5,hostel,
+23,Auditorium3,facility,unverified - kept from earlier estimate
+24,Auditorium4,facility,unverified - kept from earlier estimate
+25,SchoolOfComputerScience1,academic,
+26,SchoolOfComputerScience2,academic,
+27,SchoolOfComputerScience3,academic,
+28,SchoolOfComputerScience4,academic,
+29,SchoolOfComputerScience5,academic,
+30,AdministrativeBlock,admin,
+31,AdmissionBlock,admin,
+32,LPUOnline,academic,
+33,SchoolOfComputerScience6,academic,
+34,SchoolOfComputerScience7,academic,
+35,Library,academic,
+36,SchoolOfComputerScience8,academic,
+37,SchoolOfComputerScience9,academic,
+38,ResearchBlock,academic,
+39,GirlsHostel7,hostel,
+40,Store,utility,unverified - kept from earlier estimate
+41,Apartment1,residence,
+42,Apartment2,residence,
+43,BoysHostel1,hostel,
+45,BoysHostel2,hostel,
+46,BoysHostel3,hostel,
+47,BoysHostel4,hostel,
+51,BoysHostel5,hostel,
+52,BoysHostel6,hostel,
+56,FoodCourtCC,food,near Hospital(3)/DSW(13)
+57,AgricultureBlock1,academic,confirmed via satellite view as School of Agriculture Block 57
+58,ApartmentFoodCourt,food,50m from Apartment1/2
+59,ChancellorOffice,admin,unverified - kept from earlier estimate
+60,STP,utility,unverified - sewage treatment plant kept from earlier estimate
+61,BH1FoodCourt,food,50m from BH1 toward BH2
